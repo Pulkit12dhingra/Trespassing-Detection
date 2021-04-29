@@ -1,4 +1,2 @@
 # trespassing-detection
-b1
-https://drive.google.com/drive/folders/1DvHtf97By9FbTZ8AJTgqFCXNAZD48WRe?usp=sharing
-download the weights or run create_model.py to gt weights
+Trespassing control is often a challenge for countries. It allows people to cross borders and that may sometimes lead as a safety passage for anarchist to spread terror. This repo deals with a project that allows cameras to detect any trespassing in the area. it uses YOLO object detection model to detect people or guns or other illegal weapns and send a msg to concerned authorities. I used Flask as a backend tool to deploy the project
